@@ -1,0 +1,15 @@
+/Users/aiiganty/Desktop/GeekBrains/C#/ControlTask/bin/Debug/net6.0/ControlTask
+/Users/aiiganty/Desktop/GeekBrains/C#/ControlTask/bin/Debug/net6.0/ControlTask.deps.json
+/Users/aiiganty/Desktop/GeekBrains/C#/ControlTask/bin/Debug/net6.0/ControlTask.runtimeconfig.json
+/Users/aiiganty/Desktop/GeekBrains/C#/ControlTask/bin/Debug/net6.0/ControlTask.dll
+/Users/aiiganty/Desktop/GeekBrains/C#/ControlTask/bin/Debug/net6.0/ControlTask.pdb
+/Users/aiiganty/Desktop/GeekBrains/C#/ControlTask/obj/Debug/net6.0/ControlTask.csproj.AssemblyReference.cache
+/Users/aiiganty/Desktop/GeekBrains/C#/ControlTask/obj/Debug/net6.0/ControlTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aiiganty/Desktop/GeekBrains/C#/ControlTask/obj/Debug/net6.0/ControlTask.AssemblyInfoInputs.cache
+/Users/aiiganty/Desktop/GeekBrains/C#/ControlTask/obj/Debug/net6.0/ControlTask.AssemblyInfo.cs
+/Users/aiiganty/Desktop/GeekBrains/C#/ControlTask/obj/Debug/net6.0/ControlTask.csproj.CoreCompileInputs.cache
+/Users/aiiganty/Desktop/GeekBrains/C#/ControlTask/obj/Debug/net6.0/ControlTask.dll
+/Users/aiiganty/Desktop/GeekBrains/C#/ControlTask/obj/Debug/net6.0/refint/ControlTask.dll
+/Users/aiiganty/Desktop/GeekBrains/C#/ControlTask/obj/Debug/net6.0/ControlTask.pdb
+/Users/aiiganty/Desktop/GeekBrains/C#/ControlTask/obj/Debug/net6.0/ControlTask.genruntimeconfig.cache
+/Users/aiiganty/Desktop/GeekBrains/C#/ControlTask/obj/Debug/net6.0/ref/ControlTask.dll
